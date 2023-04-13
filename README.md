@@ -14,7 +14,6 @@ A curated list of awesome Jupyter widget packages and projects in Python
 
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/) - basic widgets and nestable containers
 - [ipyvuetify](https://github.com/widgetti/ipyvuetify) - basic widgets in the style of Google user interfaces
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - maps (Leaflet.js)
 - [pythreejs](https://github.com/jupyter-widgets/pythreejs) - 3D visualizations (Three.js)
 - [bqplot](https://github.com/bqplot/bqplot) - 2D plotting
 - [ipympl](https://github.com/matplotlib/ipympl) - interactive Matplotlib
@@ -24,6 +23,10 @@ A curated list of awesome Jupyter widget packages and projects in Python
 - [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - spreadsheets
 - [ipyparaview](https://github.com/NVIDIA/ipyparaview) - ParaView rendering 
 - [jupyter-scatter](https://github.com/flekschas/jupyter-scatter) - 2D scatter plots that scale to millions of points 
+
+#### Maps and Geospatial Visualization
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - maps (Leaflet.js)
+- [mapwidget](https://github.com/opengeos/mapwidget) - 2D/3D maps using Cesium, Mapbox, MapLibre, Leaflet, and OpenLayers 
 
 #### Networks
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - graph visualizations (cytoscape.js)
