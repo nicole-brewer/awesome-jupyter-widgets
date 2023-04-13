@@ -38,14 +38,11 @@ A curated list of awesome Jupyter widget packages and projects in Python
 
 #### Biology and Chemistry
 - [nglviewer](https://github.com/nglviewer/nglview) - visualize molecular structures and trajectories
+- [clustergrammer2](https://github.com/ismms-himc/clustergrammer2) -  "Dimensionality-increasing" data visualization tool for single-cell data
 
 #### Health and Human Sciences
 - [niwidgets](https://github.com/nipy/niwidgets) - neuroimaging widgets
 - [itkwidgets](https://github.com/InsightSoftwareConsortium/itkwidgets) - visualize images, point sets, and meshes in 2D and 3D
-
-#### Robotics
-- [jupyter-ros](https://github.com/RoboStack/jupyter-ros) - tools for the Robot Operating System
-
 
 
 ### Create Your Own Widget with JavaScript
