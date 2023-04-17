@@ -1,4 +1,4 @@
-# awesome-jupyter-widgets-for-science
+# awesome-jupyter-widgets
 A curated list of awesome Jupyter widget packages and projects in Python
 
 ## Contents
@@ -7,6 +7,8 @@ A curated list of awesome Jupyter widget packages and projects in Python
   - [Interactive Jupyter Widget Ecosystem](#interactive-jupyter-widget-ecosystem)
   - [Create Your Own Widget with JavaScript](#create-your-own-widget-with-javascript)
   - [Data Viz Frameworks with Interactive Jupyter Integrations](#data-visualization-frameworks-with-interactive-jupyter-integrations)
+- [Data Dashboards and Web Applications](#data-dashboards-and-web-applications)
+- [Packages for Development](#packages-for-development)
   
 ## Interactive Widgets
 
@@ -47,18 +49,23 @@ A curated list of awesome Jupyter widget packages and projects in Python
 
 ### Create Your Own Widget with JavaScript
 
-- [cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter)
-- [opinionated cookiecutter](https://github.com/jupyter-widgets/widget-ts-cookiecutter)
+- [cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter) - for creating a custom Jupyter widget project
+- [widget-ts-cookiecutter](https://github.com/jupyter-widgets/widget-ts-cookiecutter) - highly opinionated cookiecutter template for ipywidget extension
 - [anywidget](https://github.com/manzt/anywidget) - custom jupyter widgets made easier
 - [jp_proxy_widget](https://github.com/AaronWatters/jp_proxy_widget) - support many types of javascript libraries and interactions
 
 
 ### Data Visualization Frameworks with Interactive Jupyter Integrations
 
-- [Plotly](https://plotly.com/python/getting-started/)
-- [Altair](https://altair-viz.github.io/user_guide/interactions.html#interactive-charts)
-- [Bokeh](https://github.com/bokeh/jupyter_bokeh)
+- [Plotly](https://plotly.com/python/getting-started/) - 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases (plotly.js)
+- [Altair](https://altair-viz.github.io/user_guide/interactions.html#interactive-charts) - declarative statistical visualization library built on top of the powerful [Vega-Lite](https://vega.github.io/vega-lite/) grammar
+- [Bokeh](https://github.com/bokeh/jupyter_bokeh) - beautiful visualizations for modern web browsers
 
-## Other Utilities
+## Data Dashboards and Web Applications
 
+- [Voilà](https://github.com/voila-dashboards/voila) - turns notebooks into standalone web applications by hiding code cells
+
+## Packages for Development
+
+- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - multipane notebook development environment
 - [jupyterlab-sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - sidecar output widget for JupyterLab
