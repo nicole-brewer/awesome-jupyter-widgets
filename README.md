@@ -9,6 +9,7 @@ A curated list of awesome Jupyter widget packages and projects in Python
   - [Data Viz Frameworks with Interactive Jupyter Integrations](#data-visualization-frameworks-with-interactive-jupyter-integrations)
 - [Data Dashboards and Web Applications](#data-dashboards-and-web-applications)
 - [Sharing Interactive Notebooks](#sharing-interactive-notebooks)
+  - [Venues for PUblication](#venues-for-publication)
 - [Packages for Development](#packages-for-development)
   
 ## Interactive Widgets
@@ -70,9 +71,13 @@ A curated list of awesome Jupyter widget packages and projects in Python
 
 ## Sharing Interactive Notebooks
 - [Binder](https://mybinder.org/) - turn a Git repo into a sharable collection of interactive notebooks (free hosting)
+
+### Venues for Publication
 - [US-RSE Conference](https://us-rse.org/usrse23/participate/notebooks/) - a research software engineering conference that accepts for computational notebook submissions for peer-reivew
+- [Earthcube Annual Meeting](https://www.earthcube.org/notebooks) - an annual meeting that accepts peer-reviewed Jupyter notebooks showcasing geoscience data tools, software, services, and libraries
 
 ## Packages for Development
 
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - multipane notebook development environment
 - [jupyterlab-sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - sidecar output widget for JupyterLab
+- [jupyterlab-ide](https://github.com/nicole-brewer/jupyterlab-ide) - a set of packages and extensions to give JupyterLab IDE superpowers
