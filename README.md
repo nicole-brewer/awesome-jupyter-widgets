@@ -8,6 +8,7 @@ A curated list of awesome Jupyter widget packages and projects in Python
   - [Create Your Own Widget with JavaScript](#create-your-own-widget-with-javascript)
   - [Data Viz Frameworks with Interactive Jupyter Integrations](#data-visualization-frameworks-with-interactive-jupyter-integrations)
 - [Data Dashboards and Web Applications](#data-dashboards-and-web-applications)
+- [Sharing Interactive Notebooks](#sharing-interactive-notebooks)
 - [Packages for Development](#packages-for-development)
   
 ## Interactive Widgets
@@ -64,6 +65,12 @@ A curated list of awesome Jupyter widget packages and projects in Python
 ## Data Dashboards and Web Applications
 
 - [Voilà](https://github.com/voila-dashboards/voila) - turns notebooks into standalone web applications by hiding code cells
+- [nbdev](https://github.com/fastai/nbdev) - a package for developing literate Python packages from within Jupyter Notebooks (well-suited to developing complex workflows, data dashboards, and web applications)
+- [nbdev_app_template](https://github.com/nicole-brewer/nbdev_app_template) - an opinionated template for building scientific web applications with nbdev + Voilà
+
+## Sharing Interactive Notebooks
+- [Binder](https://mybinder.org/) - turn a Git repo into a sharable collection of interactive notebooks (free hosting)
+- [US-RSE Conference](https://us-rse.org/usrse23/participate/notebooks/) - a research software engineering conference that accepts for computational notebook submissions for peer-reivew
 
 ## Packages for Development
 
