@@ -6,6 +6,7 @@ A curated list of awesome Jupyter widget packages and projects in Python
 - [Interactive Widgets](#interactive-widgets)
   - [Interactive Jupyter Widget Ecosystem](#interactive-jupyter-widget-ecosystem)
   - [Create Your Own Widget with JavaScript](#create-your-own-widget-with-javascript)
+  - [Autogenerate a User Interface](#autogenerate-a-user-interface)
   - [Data Viz Frameworks with Interactive Jupyter Integrations](#data-visualization-frameworks-with-interactive-jupyter-integrations)
 - [Data Dashboards and Web Applications](#data-dashboards-and-web-applications)
 - [Sharing Interactive Notebooks](#sharing-interactive-notebooks)
@@ -18,6 +19,7 @@ A curated list of awesome Jupyter widget packages and projects in Python
 
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/) - basic widgets and nestable containers
 - [ipyvuetify](https://github.com/widgetti/ipyvuetify) - basic widgets in the style of Google user interfaces
+- [ipyevents](https://github.com/mwcraig/ipyevents) - a widget for returning mouse and keyboard events
 - [pythreejs](https://github.com/jupyter-widgets/pythreejs) - 3D visualizations (Three.js)
 - [bqplot](https://github.com/bqplot/bqplot) - 2D plotting
 - [ipympl](https://github.com/matplotlib/ipympl) - interactive Matplotlib
@@ -48,6 +50,8 @@ A curated list of awesome Jupyter widget packages and projects in Python
 - [niwidgets](https://github.com/nipy/niwidgets) - neuroimaging widgets
 - [itkwidgets](https://github.com/InsightSoftwareConsortium/itkwidgets) - visualize images, point sets, and meshes in 2D and 3D
 
+### Autogenerate a User Interface
+- [ipyautoui](https://github.com/maxfordham/ipyautoui) - automate the creation of widget forms
 
 ### Create Your Own Widget with JavaScript
 
