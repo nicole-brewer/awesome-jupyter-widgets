@@ -63,6 +63,7 @@ A curated list of awesome Jupyter widget packages and projects in Python
 
 ### Data Visualization Frameworks with Interactive Jupyter Integrations
 
+- [Solara](https://solara.dev/) - build web apps using ipywidgets that work both inside the Jupyter Notebook and as standalone web apps with frameworks like FastAPI
 - [Plotly](https://plotly.com/python/getting-started/) - 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases (plotly.js)
 - [Altair](https://altair-viz.github.io/user_guide/interactions.html#interactive-charts) - declarative statistical visualization library built on top of the powerful [Vega-Lite](https://vega.github.io/vega-lite/) grammar
 - [Bokeh](https://github.com/bokeh/jupyter_bokeh) - beautiful visualizations for modern web browsers
