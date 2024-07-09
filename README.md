@@ -28,7 +28,9 @@ A curated list of awesome Jupyter widget packages and projects in Python
 - [perspective](https://github.com/finos/perspective) - real time visualization large and/or streaming datasets
 - [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - spreadsheets
 - [ipyparaview](https://github.com/NVIDIA/ipyparaview) - ParaView rendering 
-- [jupyter-scatter](https://github.com/flekschas/jupyter-scatter) - 2D scatter plots that scale to millions of points 
+- [jupyter-scatter](https://github.com/flekschas/jupyter-scatter) - 2D scatter plots that scale to millions of points
+- [ipycanvas](https://github.com/jupyter-widgets-contrib/ipycanvas) - interactive drawing canvas using the browser's canvas API
+- [ipygany](https://github.com/jupyter-widgets-contrib/ipygany) - display 3D meshes in a widget
 
 #### Maps and Geospatial Visualization
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - maps (Leaflet.js)
@@ -73,6 +75,7 @@ A curated list of awesome Jupyter widget packages and projects in Python
 - [Voilà](https://github.com/voila-dashboards/voila) - turns notebooks into standalone web applications by hiding code cells
 - [nbdev](https://github.com/fastai/nbdev) - a package for developing literate Python packages from within Jupyter Notebooks (well-suited to developing complex workflows, data dashboards, and web applications)
 - [nbdev_app_template](https://github.com/nicole-brewer/nbdev_app_template) - an opinionated template for building scientific web applications with nbdev + Voilà
+- [voici](https://github.com/voila-dashboards/voici) - a tool for generating static dashboards from Jupyter Notebooks
 
 ## Sharing Interactive Notebooks
 - [Binder](https://mybinder.org/) - turn a Git repo into a sharable collection of interactive notebooks (free hosting)
